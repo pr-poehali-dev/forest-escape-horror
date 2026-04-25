@@ -308,8 +308,8 @@
 }
 
 .inventory-slot {
-  width: 36px;
-  height: 36px;
+  width: 46px;
+  height: 46px;
   background: rgba(15, 30, 10, 0.8);
   border: 1px solid rgba(60, 120, 40, 0.25);
   border-radius: 4px;
